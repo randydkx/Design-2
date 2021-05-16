@@ -1,0 +1,34 @@
+[scientific-format]
+A -> d B
+A -> . G
+B -> d B
+B -> . C
+B -> e D
+B -> E D
+B -> @
+B -> i
+C -> d C
+C -> e D
+C -> E D
+C -> @
+C -> i
+D -> + E
+D -> - E
+D -> d F
+E -> d F
+F -> d F
+F -> i
+F -> @
+G -> d C
+[delimiter]
+A -> ,
+A -> ;
+A -> (
+A -> )
+A -> {
+A -> }
+A -> [
+A -> ]
+[operator]
+
+[identifier]

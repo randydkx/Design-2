@@ -1,0 +1,10 @@
+"E‘"->"E" {print("E".val)}
+"E"->"E"'+'"T" {"E".val:="E".val+"T".val}
+"E"->"E"'*'"T" {"E".val:="E".val*"T".val}
+"E"->"E"'-'"T" {"E".val:="E".val-"T".val}
+"E"->"T" {"E".val:="T".val}
+"T"->"T"'*'"F" {"T".val:="T".val*"F".val}
+"T"->"F" {"T".val:="F".val}
+"F"->'('"E"')' {"F".val:="E".val}
+"F"->'[scientific-format]' {"F".val:='d'.lexval}
+$
