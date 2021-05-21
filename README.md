@@ -2,47 +2,46 @@
 博客链接：<a href="https://www.cnblogs.com/randy-lo/p/14773609.html" target="_blank">详解博客</a>  
 ```
 .
-├── READMD.md
-├── design-1
-│   ├── README.md
-│   ├── grammer
-│   │   ├── error_file.txt
-│   │   ├── grammer-rule.txt
-│   │   ├── grammer-rule2.txt
-│   │   ├── grammerAnalysis
-│   │   ├── grammerAnalysis.cpp
-│   │   ├── grammerAnalysis.h
-│   │   ├── test-rule.txt
-│   │   ├── test-rule2.txt
-│   │   ├── test-rule3.txt
-│   │   ├── test-rule4.txt
-│   │   ├── test-rule5.txt
-│   │   └── test-rule6.txt
-│   ├── lexical
-│   │   ├── code.txt
-│   │   ├── code2.txt
-│   │   ├── code3.txt
-│   │   ├── lexical-rule.txt
-│   │   ├── lexical-rule2.txt
-│   │   ├── lexical-rule3.txt
-│   │   ├── lexicalAnalysis
-│   │   ├── lexicalAnalysis.cpp
-│   │   ├── lexicalAnalysis.h
-│   │   ├── problem3_code.txt
-│   │   ├── test.cpp
-│   │   └── token.txt
-│   ├── semantic
-│   │   ├── error_file.txt
-│   │   ├── rule.txt
-│   │   ├── semanticAnalysis
-│   │   ├── semanticAnalysis.cpp
-│   │   ├── semanticAnalysis.h
-│   │   ├── test1
-│   │   └── test1.cpp
-│   ├── 使用实例.txt
-│   ├── 代码说明文档.docx
-│   └── 课程设计报告.docx
-├── test.pdf
-└── test.tex
+├── README.md
+├── dir.txt
+├── grammer
+│   ├── error_file.txt
+│   ├── grammer-rule.txt
+│   ├── grammer-rule2.txt
+│   ├── grammerAnalysis
+│   ├── grammerAnalysis.cpp
+│   ├── grammerAnalysis.h
+│   ├── test-rule.txt
+│   ├── test-rule2.txt
+│   ├── test-rule3.txt
+│   ├── test-rule4.txt
+│   ├── test-rule5.txt
+│   └── test-rule6.txt
+├── lexical
+│   ├── code.txt
+│   ├── code2.txt
+│   ├── code3.txt
+│   ├── lexical-rule.txt
+│   ├── lexical-rule2.txt
+│   ├── lexical-rule3.txt
+│   ├── lexicalAnalysis
+│   ├── lexicalAnalysis.cpp
+│   ├── lexicalAnalysis.h
+│   ├── problem3_code.txt
+│   ├── test.cpp
+│   └── token.txt
+├── semantic
+│   ├── error_file.txt
+│   ├── rule.txt
+│   ├── semanticAnalysis
+│   ├── semanticAnalysis.cpp
+│   ├── semanticAnalysis.h
+│   ├── test1
+│   └── test1.cpp
+├── 使用实例.txt
+├── 代码说明文档.docx
+└── 课程设计报告.docx
+
+3 directories, 36 files
+
 ```
-4 directories, 38 files
